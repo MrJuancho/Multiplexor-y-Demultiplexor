@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MrJua/Documents/Estructura de Datos/Multiplexor y Demultiplexor/funciones.h
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+conio.h
+-
+
+C:/Users/MrJua/Documents/Estructura de Datos/Multiplexor y Demultiplexor/main.c
+stdio.h
+-
+funciones.h
+C:/Users/MrJua/Documents/Estructura de Datos/Multiplexor y Demultiplexor/funciones.h
+conio.h
+-
+
